@@ -21,5 +21,5 @@ Main class is CurseWordMark.
  
 
 ## Supporting library
-[Shutter stock curse words library](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
+[Shutter stock curse words library](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), 
 [Aho Corasick Algorithm](https://github.com/robert-bor/aho-corasick)
