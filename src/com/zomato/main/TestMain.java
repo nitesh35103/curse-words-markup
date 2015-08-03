@@ -26,7 +26,7 @@ public class TestMain {
 		CurseWordMarkup curse = new CurseWordMarkup();
 		curse.load();
 		
-		List<CurseWord> words = curse.parse("Concha de tu madre auto erotic Hacer una paja Heroína fuck ass ");
+		List<CurseWord> words = curse.parse("fuck Concha de tu madre auto erotic Hacer una paja Heroína fuck ass ");
 		//List<CurseWord> words = curse.parse("Concha de tu madre auto erotic Hacer una paja Heroína fuck ass ", "es");
 		List<CurseWord> cleanList = curse.cleanList(words);
 		
